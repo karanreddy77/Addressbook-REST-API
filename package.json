@@ -1,0 +1,16 @@
+{
+  "name": "eai-coding-challenge",
+  "version": "1.0.0",
+  "description": "Simple REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karan Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "elasticsearch": "^14.0.0",
+    "express": "^4.16.2"
+  }
+}
